@@ -4,7 +4,7 @@
 #include <string.h>
 #include <math.h>
 
-#define res        1                        //0=160x120 1=360x240 4=640x480
+#define res        1                        
 #define SW         400*res                  //screen width
 #define SH         240*res                  //screen height
 #define SW2        (SW/2)                   //half of screen width
