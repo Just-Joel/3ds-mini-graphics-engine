@@ -1,5 +1,5 @@
 # 3ds-mini-graphics-engine
-A mini doom-like graphics engine ported to the 3ds by me. Heavily inspired by 3DSages Tutorials.
+A mini doom-like graphics engine ported to the 3ds by me from 3DSages Tutorials.
 Made using devkitpro.
 
 Also heres my yt channel link: https://www.youtube.com/channel/UCTXhJHpFD9G-UnPwj03ZnSA
