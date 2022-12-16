@@ -2,6 +2,10 @@
 A mini doom-like graphics engine ported to the 3ds by me from 3DSages Tutorials.
 Supports 3D(somewhat)
 
+TO DO:
+1. screenshots
+2. some sort of screen streaming to pc
+
 Made using devkitpro.
 
 Also heres my yt channel link: https://www.youtube.com/channel/UCTXhJHpFD9G-UnPwj03ZnSA
