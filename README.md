@@ -9,7 +9,7 @@ TO DO:
 Made using devkitpro.
 
 Also heres my yt channel link: https://www.youtube.com/channel/UCTXhJHpFD9G-UnPwj03ZnSA
-And heres my Discord for any queries: ジョール(Joel)#5231
+And here's my Discord for any queries: ジョール(Joel)#5231
 
 Build instructions:
 Only requires devkitpro for 3ds properly installed.
